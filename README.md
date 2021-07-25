@@ -1,7 +1,7 @@
 # Customer-Segmentation
 An analysis of customer data using unsupervised learning methods such as K-Means, Hierarchial Clustering and Principal Component Analysis
 
-- [**Yable of Contents**](#customer-segmentation)
+- [**Table of Contents**](#customer-segmentation)
   - [Introduction](#introduction)
   - [Setting up the Project](#setting-up-the-project)
     - [Importing Data and Libraries](#importing-data-and-libraries)
@@ -56,7 +56,7 @@ Below we can see the first 10 entries of the dataset as well as seeing that ther
 - Median Annual Income
 ![](medianincome.png) <br> <br>
 
-The full break down of everthing that was explored can be found [here]() in the notebook.
+The full break down of everthing that was explored can be found [here](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/code/Customer%20Segmentation.ipynb) in the notebook.
 
 
 <div style="page-break-after: always"></div>
