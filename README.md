@@ -79,18 +79,18 @@ K-Means clustering is a method of vector quantization, originally from signal pr
 
 #### Determining the Ideal number of Clusters in the dataset
 When determining the number of clusters to use one of the important methods is using what is known as the **_Elbow Curve Method_** This method involves plotting the explained variance( Sum of Squared Distance) vs the Number of clusters (k) and choosing the number of clusters based on where the 'elbow' occurs. The elbow is the cutoff point at which increasing the number of clusters is no longer worth it. We also utilized the **_Silhouette Score_** to help with selection.
-![](ElbowPlot.png)
+![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/ElbowPlot.png)
 
 I had a choice between two possible cluster numbers and I choice to build models based on 6 rather than 3 clusters.
 
 - 6 Cluster Comparison Plots
-![](KM6-ClusterComparison.png) <br> <br>
+![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/KM6-ClusterComparison.png) <br> <br>
 
 - 3D plot of 6 Cluster Model
-![](KM6-Cluster.png)
+![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/KM6-Cluster.png)
 
 - Cluster Summary
-![](ClusterSummary.png) <br> 
+![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/ClusterSummary.png) <br> 
 
 
 ### Hierarchial Clustering
@@ -102,10 +102,10 @@ Divisive: This is a "top-down" approach: all observations start in one cluster, 
 In this notebook we used the Agglomerative approach and used a dendrogram to visualize results
 
 - Total dendrogram
-![](TotalDendrogram.png) <br> <br>
+![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/TotalDendrogram.png) <br> <br>
 
 - Partial Denmdrogram (suggesting 7 clusters)
-![](TruncDendrogram.png) <br> <br>
+![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/TruncDendrogram.png) <br> <br>
 
 ### Principal Component Anaylsis
 
@@ -113,7 +113,7 @@ Principal component analysis (PCA), is one of the most popular unsupervised mach
 In dimensionality reduction, the goal of the inferred model is to represent the input data with the fewest number of dimensions, while still retaining information such as the variability in the data that is relevant to investigation. New component generated are combinations of proportions of existing features and these components explain the maximum variance in the model.
 
 - PCA Summary
-![](PCA-Summary.png)
+![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/PCA-Summary.png)
 
 
 ## Conclusion
