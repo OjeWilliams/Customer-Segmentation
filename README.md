@@ -41,7 +41,7 @@ In this section we will investigate the data, cleaning and modifying where neces
 Also you can look at the output file of pandas- profiling [here](https://htmlpreview.github.io/?https://github.com/OjeWilliams/Customer-Segmentation/blob/main/data/output.html) and you can download the file [here](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/data/output.html) (it is interactive once downloaded)
 
 Below we can see the first 10 entries of the dataset as well as seeing that there are no missing values. 
-![](initialcheck.png) <br> <br>
+![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/initialcheck.png) <br> <br>
 
 ### Some of the interesting things found:
 - Gender percentages
