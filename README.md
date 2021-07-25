@@ -44,6 +44,7 @@ Below we can see the first 10 entries of the dataset as well as seeing that ther
 ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/initialcheck.png) <br> <br>
 
 ### Some of the interesting things found:
+
 - Gender percentages
 ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/genders.png) <br> <br>
 
