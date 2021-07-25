@@ -46,21 +46,24 @@ Below we can see the first 10 entries of the dataset as well as seeing that ther
 ### Some of the interesting things found:
 
 - Gender percentages
+- 
 ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/genders.png) <br> <br>
 
 - Distribution Plots
+- 
 ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/DistributionPlots.png) <br> <br>
 
 - Mean Spending Score
+- 
 ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/meanscore.png) <br> <br>
 
 - Median Annual Income
+- 
 ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/medianincome.png) <br> <br>
 
 The full break down of everthing that was explored can be found [here](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/code/Customer%20Segmentation.ipynb) in the notebook.
 
 
-<div style="page-break-after: always"></div>
 
 ## Part 2 - Data Pre-processing
 In this this section we deal preparing the data for it to be used in our models.
@@ -85,10 +88,10 @@ When determining the number of clusters to use one of the important methods is u
 I had a choice between two possible cluster numbers and I choice to build models based on 6 rather than 3 clusters.
 
 - 6 Cluster Comparison Plots
-![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/KM6-ClusterComparison.png) <br> <br>
+![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/KM6-ClusterComparison.png) <br> <
 
 - 3D plot of 6 Cluster Model
-![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/KM6-Cluster.png)
+![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/KM6-Cluster.png) <br> 
 
 - Cluster Summary
 ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/ClusterSummary.png) <br> 
