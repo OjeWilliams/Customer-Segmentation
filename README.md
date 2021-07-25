@@ -45,16 +45,16 @@ Below we can see the first 10 entries of the dataset as well as seeing that ther
 
 ### Some of the interesting things found:
 - Gender percentages
-![](genders.png) <br> <br>
+![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/genders.png) <br> <br>
 
 - Distribution Plots
-![](DistributionPlots.png) <br> <br>
+![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/DistributionPlots.png) <br> <br>
 
 - Mean Spending Score
-![](meanscore.png) <br> <br>
+![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/meanscore.png) <br> <br>
 
 - Median Annual Income
-![](medianincome.png) <br> <br>
+![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/medianincome.png) <br> <br>
 
 The full break down of everthing that was explored can be found [here](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/code/Customer%20Segmentation.ipynb) in the notebook.
 
@@ -70,7 +70,7 @@ Categorical variables are those that are labels rather than numeric values such 
  Scaling our data means that we are normalizing the range of the features of our data as a means to combat the large range of values in our raw data. 
 
  We addressed both tasks as seen below:
- ![](transformed.png)
+ ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/transformed.png)
 
 
 ## Part 3 - Build and Evaluate Models
