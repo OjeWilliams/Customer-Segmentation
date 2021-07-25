@@ -87,12 +87,15 @@ When determining the number of clusters to use one of the important methods is u
 I had a choice between two possible cluster numbers and I choice to build models based on 6 rather than 3 clusters.
 
 - 6 Cluster Comparison Plots
-![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/KM6-ClusterComparison.png) <br> <
+ 
+![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/KM6-ClusterComparison.png) <br> 
 
 - 3D plot of 6 Cluster Model
+
 ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/KM6-Cluster.png) <br> 
 
 - Cluster Summary
+
 ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/ClusterSummary.png) <br> 
 
 
@@ -116,6 +119,7 @@ Principal component analysis (PCA), is one of the most popular unsupervised mach
 In dimensionality reduction, the goal of the inferred model is to represent the input data with the fewest number of dimensions, while still retaining information such as the variability in the data that is relevant to investigation. New component generated are combinations of proportions of existing features and these components explain the maximum variance in the model.
 
 - PCA Summary
+-
 ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/PCA-Summary.png)
 
 
