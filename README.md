@@ -27,6 +27,8 @@ and means. This will be used to drive business decisions in tailoring approaches
 The data was obtained from [Kaggle](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python) and it includes features such as Customer ID, Age, Gender, Annual Income and Spending Score (which was assigned based on the internal metrics of the company. 
 
 
+The full break down of everything that was explored can be found [here](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/code/Customer%20Segmentation.ipynb) in the notebook.
+
  ## Setting up the Project
 
  ### Importing Data and Libraries
@@ -60,9 +62,6 @@ Below we can see the first 10 entries of the dataset as well as seeing that ther
 - Median Annual Income
 
 ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/medianincome.png) <br> <br>
-
-The full break down of everthing that was explored can be found [here](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/code/Customer%20Segmentation.ipynb) in the notebook.
-
 
 
 ## Part 2 - Data Pre-processing
