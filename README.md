@@ -46,19 +46,19 @@ Below we can see the first 10 entries of the dataset as well as seeing that ther
 ### Some of the interesting things found:
 
 - Gender percentages
-- 
+
 ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/genders.png) <br> <br>
 
 - Distribution Plots
-- 
+
 ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/DistributionPlots.png) <br> <br>
 
 - Mean Spending Score
-- 
+
 ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/meanscore.png) <br> <br>
 
 - Median Annual Income
-- 
+
 ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/medianincome.png) <br> <br>
 
 The full break down of everthing that was explored can be found [here](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/code/Customer%20Segmentation.ipynb) in the notebook.
