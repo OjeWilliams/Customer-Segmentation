@@ -119,7 +119,7 @@ Principal component analysis (PCA), is one of the most popular unsupervised mach
 In dimensionality reduction, the goal of the inferred model is to represent the input data with the fewest number of dimensions, while still retaining information such as the variability in the data that is relevant to investigation. New component generated are combinations of proportions of existing features and these components explain the maximum variance in the model.
 
 - PCA Summary
--
+
 ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/PCA-Summary.png)
 
 
