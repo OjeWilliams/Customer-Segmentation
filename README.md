@@ -12,7 +12,7 @@ An analysis of customer data using unsupervised learning methods such as K-Means
   - [Part 3 - Build and Evaluate Models](#part-3---build-and-evaluate-models)
     - [K-Means Clustering](#k-means-clustering)
       - [Determining the Ideal number of Clusters in the dataset](#determining-the-ideal-number-of-clusters-in-the-dataset)
-    - [Hierarchial Clustering](#hierarchial-clustering)
+    - [Hierarchical Clustering](#hierarchial-clustering)
     - [Principal Component Anaylsis](#principal-component-anaylsis)
   - [Conclusion](#conclusion)
   - [References](#references)
@@ -99,7 +99,7 @@ I had a choice between two possible cluster numbers and I choice to build models
 ![](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/images/ClusterSummary.png) <br> 
 
 
-### Hierarchial Clustering
+### Hierarchical Clustering
 In data mining and statistics, hierarchical clustering (also called hierarchical cluster analysis or HCA) is a method of cluster analysis which seeks to build a hierarchy of clusters. In other words it is an algorithm that groups similar objects into groups called clusters. There are mainly two types
 
 Agglomerative: This is a "bottom-up" approach: each observation starts in its own cluster, and pairs of clusters are merged as one moves up the hierarchy.
@@ -129,7 +129,7 @@ From our investigation into this data set using unsupervised maching learning me
 - **Hierarchial Clustering** suggested that we can segment our customers into 7 groups. <br>  <br>
 - **Principal Component Analysis** returned 2 components that explained 67% percent of the variance in our data. Using          these two components we were able to build a better K-Means model that suggested our customers could be put into 4 groups.
 
-From the 6 Cluster model I was able to create coteries to describe each group in detail while also providing insights into what might appeal to each group. This can be found in the notebook.
+From the 6 Cluster model I was able to create coteries to describe each group in detail while also providing insights into what might appeal to each group. This can be found in the [notebook](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/code/Customer%20Segmentation.ipynb).
 
 ## References
 - https://towardsdatascience.com/customer-segmentation-with-python-31dca5d5bdad?source=user_profile
