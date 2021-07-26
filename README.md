@@ -1,5 +1,5 @@
 # Customer-Segmentation
-An analysis of customer data using unsupervised learning methods such as K-Means, Hierarchial Clustering and Principal Component Analysis
+An analysis of customer data using unsupervised learning methods such as K-Means, Hierarchical Clustering and Principal Component Analysis
 
 - [**Table of Contents**](#customer-segmentation)
   - [Introduction](#introduction)
