@@ -65,7 +65,7 @@ Below we can see the first 10 entries of the dataset as well as seeing that ther
 
 
 ## Part 2 - Data Pre-processing
-In this this section we deal preparing the data for it to be used in our models.
+In this this section we deal with preparing the data for it to be used in our models.
 
 ### Dealing with categorical data columns
 Here we have two issues to address, we have to transform our categorical data values into numerical values and then we have to scale our data. 
