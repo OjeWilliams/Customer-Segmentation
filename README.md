@@ -27,7 +27,7 @@ and means. This will be used to drive business decisions in tailoring approaches
 The data was obtained from [Kaggle](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python) and it includes features such as Customer ID, Age, Gender, Annual Income and Spending Score (which was assigned based on the internal metrics of the company. 
 
 
-The full break down of everything that was explored can be found [here](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/code/Customer%20Segmentation.ipynb) in the notebook.
+The full break down of everything that was explored can be found [here](https://github.com/OjeWilliams/Customer-Segmentation/blob/main/code/Customer%20Segmentation.ipynb) in the Jupyter notebook.
 
  ## Setting up the Project
 
